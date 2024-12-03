@@ -1,0 +1,6 @@
+[submodule "week 11/FEDformer"]
+	path = week 11/FEDformer
+	url = https://github.com/MAZiqing/FEDformer.git
+[submodule "homework 03/FEDformer"]
+	path = homework 03/FEDformer
+	url = https://github.com/MAZiqing/FEDformer.git
